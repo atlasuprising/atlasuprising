@@ -31,6 +31,7 @@
  - Team Management
  - Project Management
  - Creative Thinking
+ - Basic Legal Writing(Terms, Licenses, Policies)
 
 🕹️**Standard Stuff**
 
