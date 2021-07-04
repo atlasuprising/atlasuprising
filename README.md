@@ -1,5 +1,5 @@
 
-**Hello! I am @atlasuprising**
+**Hello! I am Mal**
 
 **Executive of Atlas Uprising**
 
